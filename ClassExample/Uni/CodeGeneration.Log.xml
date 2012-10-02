@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/10006179/AppData/Local/Microsoft/VisualStudio/10.0/Extensions/Microsoft/Visualization and Modeling Feature Pack/1.0/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log">
+  <Message Timestamp="2012-10-02T14:54:43" Importance="High" Text="Code generation or text transformation started." />
+  <Error Timestamp="2012-10-02T14:54:43" Importance="High" Text="No templates were found to process.  Configure templates by choosing 'Configure Default Code Generation Settings...' from the 'Architecture' menu, or change the selection for which code generation is launched." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="The selection included 16 elements which were not bound to a template." />
+  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::University' -  (Class): no bound template." />
+  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Person' -  (Class): no bound template." />
+  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Student' -  (Class): no bound template." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'bfa5ff41-26aa-489a-a2f2-8edafde2aa9f' -  (Generalization): no bound template." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'Uni::' -  (Association): no bound template." />
+  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Staff' -  (Class): no bound template." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'e8106f17-0c02-499f-8b0f-84bf3a141d3a' -  (Generalization): no bound template." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'Uni::' -  (Association): no bound template." />
+  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Academic Staff' -  (Class): no bound template." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'8108c437-59c6-45b2-b800-69cc85addcdf' -  (Generalization): no bound template." />
+  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::PhD Student' -  (Class): no bound template." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'d5267300-c8c4-4b53-936e-f9d9c08ce62b' -  (Generalization): no bound template." />
+  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Payroll' -  (Class): no bound template." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'Uni::' -  (Association): no bound template." />
+  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Registry' -  (Class): no bound template." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'Uni::' -  (Association): no bound template." />
+  <Message Timestamp="2012-10-02T14:54:43" Importance="High" Text="Code generation complete. Errors: 1. Warnings: 8." />
+</Log>
