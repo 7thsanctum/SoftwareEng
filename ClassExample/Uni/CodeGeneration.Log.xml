@@ -1,24 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="file:///C:/Users/10006179/AppData/Local/Microsoft/VisualStudio/10.0/Extensions/Microsoft/Visualization and Modeling Feature Pack/1.0/Logging/CodeGenLog.xslt"?>
 <Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log">
-  <Message Timestamp="2012-10-02T14:54:43" Importance="High" Text="Code generation or text transformation started." />
-  <Error Timestamp="2012-10-02T14:54:43" Importance="High" Text="No templates were found to process.  Configure templates by choosing 'Configure Default Code Generation Settings...' from the 'Architecture' menu, or change the selection for which code generation is launched." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="The selection included 16 elements which were not bound to a template." />
-  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::University' -  (Class): no bound template." />
-  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Person' -  (Class): no bound template." />
-  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Student' -  (Class): no bound template." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'bfa5ff41-26aa-489a-a2f2-8edafde2aa9f' -  (Generalization): no bound template." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'Uni::' -  (Association): no bound template." />
-  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Staff' -  (Class): no bound template." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'e8106f17-0c02-499f-8b0f-84bf3a141d3a' -  (Generalization): no bound template." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'Uni::' -  (Association): no bound template." />
-  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Academic Staff' -  (Class): no bound template." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'8108c437-59c6-45b2-b800-69cc85addcdf' -  (Generalization): no bound template." />
-  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::PhD Student' -  (Class): no bound template." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'d5267300-c8c4-4b53-936e-f9d9c08ce62b' -  (Generalization): no bound template." />
-  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Payroll' -  (Class): no bound template." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'Uni::' -  (Association): no bound template." />
-  <Warning Timestamp="2012-10-02T14:54:43" Importance="Medium" Text="'Uni::Registry' -  (Class): no bound template." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="Diagnostic" Text="'Uni::' -  (Association): no bound template." />
-  <Message Timestamp="2012-10-02T14:54:43" Importance="High" Text="Code generation complete. Errors: 1. Warnings: 8." />
+  <Message Timestamp="2012-10-02T15:08:15" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2012-10-02T15:08:15" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2012-10-02T15:08:15" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2012-10-02T15:08:15" Importance="Diagnostic" Text="ProjectPath = ..\UniLib\UniLib.csproj" />
+  <Message Timestamp="2012-10-02T15:08:15" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2012-10-02T15:08:15" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2012-10-02T15:08:15" Importance="Diagnostic" Text="TemplateFilePath = %LocalAppData%\Microsoft\VisualStudio\10.0\Extensions\Microsoft\Visualization and Modeling Feature Pack\1.0\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2012-10-02T15:08:15" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\Users\10006179\AppData\Local\Microsoft\VisualStudio\10.0\Extensions\Microsoft\Visualization and Modeling Feature Pack\1.0\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2012-10-02T15:08:15" Importance="Medium" Text="Uni's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'Uni::Payroll' -  (Class) " />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Medium" Text="'Uni::Payroll' -  (Class) : success (file replaced) - C:\Users\10006179\Documents\GitHub\SoftwareEng\ClassExample\UniLib\GeneratedCode\Payroll.cs" />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="ProjectPath = ..\UniLib\UniLib.csproj" />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="TemplateFilePath = %LocalAppData%\Microsoft\VisualStudio\10.0\Extensions\Microsoft\Visualization and Modeling Feature Pack\1.0\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\Users\10006179\AppData\Local\Microsoft\VisualStudio\10.0\Extensions\Microsoft\Visualization and Modeling Feature Pack\1.0\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Medium" Text="Uni's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'Uni::Payroll' -  (Class) " />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="'Uni::Payroll' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="The selection included 1 elements which were not bound to a template." />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="Diagnostic" Text="'Uni::' -  (Association): no bound template." />
+  <Message Timestamp="2012-10-02T15:08:16" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
 </Log>
